@@ -4,5 +4,6 @@ attr_accessor :knowledge
   def initialize
     @knowledge = []
   end 
-  def learn 
+  def learn(knowledge)
+    @
 end
